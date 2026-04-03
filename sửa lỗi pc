@@ -6,3 +6,5 @@ MDSCHED.EXE SỬA RAM
 👇 LỆNH GỌI TOOL TỐI ƯU (WinUtil): (Mở PowerShell bằng quyền Admin rồi dán vào nhé)
 
 iwr -useb https://christitus.com/win | iex
+
+bẻ khóa bản quyền: https://get.activated.win/iex
