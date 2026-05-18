@@ -7,4 +7,4 @@ MDSCHED.EXE SỬA RAM
 
 iwr -useb https://christitus.com/win | iex
 
-bẻ khóa bản quyền: https://get.activated.win/iex
+bẻ khóa bản quyền: irm https://get.activated.win | iex
